@@ -4,3 +4,5 @@ Git has a mutable index called stage.
 Git tracks changes of files.
 Git test .
 Git test diff usage .
+My stupid boss still prefers SVN.
+hello world.
