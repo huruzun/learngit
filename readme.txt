@@ -5,8 +5,4 @@ Git tracks changes of files.
 Git test .
 Git test diff usage .
 My stupid boss still prefers SVN.
-<<<<<<< HEAD
-Creating a new branch is quick & simple.
-=======
-Creating a new branch is quick and simple.  
->>>>>>> feature1
+No fast farword.
